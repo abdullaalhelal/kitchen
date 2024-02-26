@@ -1,0 +1,493 @@
+/*// X-Small devices (portrait phones, less than 576px)*/
+@media (min-width: 320px) and (max-width: 575px) {
+    h1 {
+        font-size: 28px;
+    }
+
+    h2 {
+        font-size: 26px;
+    }
+
+    h3 {
+        font-size: 24px;
+    }
+
+    h4 {
+        font-size: 20px;
+    }
+
+    h5 {
+        font-size: 18px;
+    }
+
+    .py_90 {
+        padding: 60px 0px;
+    }
+
+    .social_item_text_book {
+        display: none;
+    }
+
+    .social_item_text p {
+        font-size: 8px;
+    }
+
+    .social_item_icon {
+        margin-top: -8%;
+    }
+
+    .navbar_part img {
+        height: 60px;
+        margin-top: -7%;
+    }
+
+    .banner_part {
+        padding: 60px 0px;
+    }
+
+    .about_item_form .btn_com {
+        padding: 10px 80px;
+    }
+
+    .about_item_img img {
+        padding-top: 0%;
+        margin-left: -30%;
+    }
+
+    .makefood_item ul li {
+        padding-right: 15px;
+    }
+
+    .makefood_item_img {
+        padding: 15px;
+        border: 1px solid #ff4d4d;
+        margin-top: 10px;
+    }
+
+    .mfood_img img {
+        margin-left: 20%;
+    }
+
+    .makefood_item_img_side_circle {
+        margin-top: 10%;
+        border: 1px solid #ff4d4d;
+    }
+
+    .menu_part .common_heading h4 {
+        font-size: 40px;
+    }
+
+    .makefood_item_text h4,
+    .makefood_item_text h3 {
+        font-size: 70px;
+    }
+
+    .makefood_item_text h4 {
+        font-size: 100px;
+    }
+
+    .kitchen_item_text {
+        display: none;
+    }
+
+    .kitchen_item img {
+        margin-left: -10%;
+    }
+
+    .test_slide_item p {
+        padding: 0px 0px;
+    }
+
+    .arrow_right {
+        right: 35%;
+    }
+
+    .support_part .common_heading h4 {
+        font-size: 38px;
+    }
+
+    .support_part {
+        padding: 30px 0px;
+    }
+
+    .ft_mail .btn_com {
+        padding: 10px 77px;
+    }
+}
+
+
+
+
+
+
+/*// Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767px) {
+    h1 {
+        font-size: 34px;
+    }
+
+    h2 {
+        font-size: 32px;
+    }
+
+    h3 {
+        font-size: 28px;
+    }
+
+    h4 {
+        font-size: 22px;
+    }
+
+    h5 {
+        font-size: 20px;
+    }
+
+    .py_90 {
+        padding: 70px 0px;
+    }
+
+    .social_item_text_book {
+        display: none;
+    }
+
+    .social_item_icon {
+        margin-top: -4%;
+    }
+
+    .navbar_part img {
+        height: 70px;
+        margin-top: -3%;
+    }
+
+    .banner_part {
+        padding: 60px 0px;
+    }
+
+    .about_item_form .btn_com {
+        padding: 10px 55px;
+    }
+
+    .about_item_img img {
+        padding-top: 0%;
+        margin-left: -90%;
+    }
+
+    .makefood_item_img_side_circle {
+        border: 1px solid #ff4d4d;
+    }
+
+    .port_img {
+        text-align: center;
+    }
+
+    .kitchen_item_text {
+        display: none;
+    }
+
+    .kitchen_item img {
+        margin-left: 10%;
+    }
+
+    .shedule_item h4 {
+        margin-right: -15px;
+    }
+
+    .shedule_item p {
+        margin-right: -25px;
+    }
+
+    .support_part {
+        padding: 60px 0px;
+    }
+
+    .blog_item h6 {
+        font-size: 14px;
+    }
+
+    .ft_mail .btn_com {
+        padding: 10px 187px;
+    }
+
+}
+
+/*// Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991px) {
+    h1 {
+        font-size: 40px;
+    }
+
+    h2 {
+        font-size: 38px;
+    }
+
+    h3 {
+        font-size: 34px;
+    }
+
+    .py_90 {
+        padding: 70px 0px;
+    }
+
+    .social_item_icon {
+        margin-right: 40%;
+        margin-top: 15px;
+    }
+
+    .navbar_part img {
+        height: 70px;
+        margin-top: -3%;
+    }
+
+    .banner_part {
+        padding: 60px 0px;
+    }
+
+    .about_item_form .btn_com {
+        padding: 10px 100px;
+    }
+
+    .about_item_text .btn_com {
+        position: relative;
+        z-index: 999;
+    }
+
+    .about_item_img {
+        position: absolute;
+        transform: translateY(-93%);
+        opacity: 45%;
+    }
+
+    .makefood_item_img {
+        background: #ffffff;
+        padding: 10px;
+        border: 1px solid #d4d4d4;
+    }
+
+    .makefood_item_img_side_circle {
+        border: 1px solid #eb474d;
+    }
+
+    .makefood_item_text h4 {
+        margin-top: -5%;
+    }
+
+    .menu_item ul li a {
+        padding-right: 15px;
+    }
+
+    .menu_item_side {
+        background: #3d3d3d;
+        padding: 15px;
+    }
+
+    .menu_item_side_text h6 {
+        color: #f1f1f1;
+    }
+
+    .kitchen_item_text {
+        display: none;
+    }
+
+    .kitchen_item img {
+        margin-left: 20%;
+    }
+
+    .feature_item h4 {
+        font-size: 24px;
+    }
+
+    .arrow_right {
+        right: 45%;
+    }
+
+    .support_part {
+        padding: 60px 0px;
+    }
+
+    .ft_mail .btn_com {
+        padding: 10px 277px;
+    }
+}
+
+/*// Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199px) {
+    h1 {
+        font-size: 50px;
+    }
+
+    .social_item_text p {
+        font-size: 12px;
+    }
+
+    .about_item_form .btn_com {
+        padding: 10px 80px;
+    }
+
+    .makefood_item_text h3 {
+        font-size: 65px;
+    }
+
+    .makefood_item_text h4 {
+        font-size: 100px;
+    }
+
+    .menu_item_side_text h6 {
+        font-size: 14px;
+    }
+
+    .port_img img {
+        width: 220px;
+    }
+
+    .kitchen_item2 h3 {
+        transform: translate(-15%, 20%);
+    }
+
+    .shedule_item p {
+        margin-right: -20%;
+    }
+
+    .shedule_item h4 {
+        margin-right: -25%;
+    }
+
+    .blog_item h6 {
+        font-size: 12px;
+    }
+
+    .blog_item ul li {
+        padding: 10px 5px;
+    }
+
+    .ft_mail .btn_com {
+        padding: 10px 77px;
+    }
+
+}
+
+/*// X-Large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399px) {}
+
+/*// XX-Large devices (larger desktops, 1400px and up)*/
+@media (min-width: 1400px) {}
+
+
+
+
+
+/* navbar_responsive 2nd */
+.navbar_part {
+    position: relative;
+    left: 0;
+    right: 0;
+    background: #fff;
+    box-shadow: 0px 5px 10px rgba(0, 0, 0, .1);
+    padding: 0px 7%;
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+}
+
+.navbar_part .logo {
+    font-weight: bolder;
+    font-size: 25px;
+    color: #333;
+}
+
+.navbar_part .navbar ul {
+    list-style: none;
+}
+
+.navbar_part .navbar ul li {
+    position: relative;
+    float: left;
+}
+
+.navbar_part .navbar ul li a {
+    font-size: 20px;
+    padding: 20px;
+    color: #333;
+    display: block;
+}
+
+.navbar_part .navbar ul li a:hover {
+    background: #333;
+    color: #fff;
+}
+
+.navbar_part .navbar ul li ul {
+    position: absolute;
+    left: 0;
+    width: 200px;
+    background: #fff;
+    display: none;
+}
+
+.navbar_part .navbar ul li ul li {
+    width: 100%;
+    border-top: 1px solid rgba(0, 0, 0, .1);
+}
+
+.navbar_part .navbar ul li ul li ul {
+    left: 200px;
+    top: 0;
+}
+
+.navbar_part .navbar ul li:focus-within>ul,
+.navbar_part .navbar ul li:hover>ul {
+    display: initial;
+}
+
+#menu-bar {
+    display: none;
+}
+
+.navbar_part label {
+    font-size: 20px;
+    color: #333;
+    cursor: pointer;
+    display: none;
+}
+
+@media (max-width:991px) {
+    .navbar_part {
+        padding: 20px;
+    }
+
+    .navbar_part label {
+        display: initial;
+    }
+
+    .navbar_part .navbar {
+        position: absolute;
+        top: 100%;
+        left: 0;
+        right: 0;
+        background: #fff;
+        border-top: 1px solid rgba(0, 0, 0, .1);
+        display: none;
+    }
+
+    .navbar_part .navbar ul li {
+        width: 100%;
+
+    }
+
+    .navbar_part .navbar ul li ul {
+        position: relative;
+        width: 100%;
+    }
+
+    .navbar_part .navbar ul li ul li {
+        background: #eee;
+    }
+
+    .navbar_part .navbar ul li ul li ul {
+        width: 100%;
+        left: 0;
+    }
+
+    #menu-bar:checked~.navbar {
+        display: initial;
+    }
+}
